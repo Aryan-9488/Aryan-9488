@@ -62,6 +62,19 @@ Full-stack Notes Management App using **React + Spring Boot + MongoDB Atlas**
 
 🔗 [View Project](https://github.com/Aryan-9488/smart-notes-manager)
 
+### 💼 Job Listing App
+
+A full-stack web application for managing and browsing job listings using **React, Spring Boot, and MongoDB**
+
+* 📋 View and explore job opportunities
+* 🔗 Integrated frontend with backend APIs
+* 🗄️ MongoDB used for storing job data
+* ⚡ RESTful API-based architecture
+* 💻 Clean UI for better user experience
+
+🔗 [View Project](https://github.com/Aryan-9488/Job-Listing)
+
+
 ---
 
 ## 📈 GitHub Stats
